@@ -1,0 +1,57 @@
+_repo: Fathers-and-Children_30723
+_version: 0.1.0
+alternative_title: Fathers and Sons
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: &id001 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    - Toergenev, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+  editor:
+    agent_name: Neilson, William Allan
+    alias: Neilson, W. A. (William Allan)
+    birthdate: 1869
+    deathdate: *id001
+    gutenberg_agent_id: '1119'
+    url: http://www.gutenberg.org/2009/agents/1119
+    wikipedia: http://en.wikipedia.org/wiki/William_Allen_Neilson
+description: ''
+gutenberg_issued: '2009-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PG'
+- !lcsh 'Russia -- Social conditions -- 1801-1917 -- Fiction'
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Nihilism (Philosophy) -- Fiction'
+title: Fathers and Children
+url: http://www.gutenberg.org/ebooks/30723
