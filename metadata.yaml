@@ -6,7 +6,7 @@ contributor:
     agent_name: Garnett, Constance
     alias: Black, Constance Clara
     birthdate: 1861
-    deathdate: &id001 1946
+    deathdate: 1946
     gutenberg_agent_id: '2858'
     url: http://www.gutenberg.org/2009/agents/2858
     wikipedia:
@@ -32,11 +32,13 @@ creator:
     agent_name: Neilson, William Allan
     alias: Neilson, W. A. (William Allan)
     birthdate: 1869
-    deathdate: *id001
+    deathdate: 1946
     gutenberg_agent_id: '1119'
     url: http://www.gutenberg.org/2009/agents/1119
     wikipedia: http://en.wikipedia.org/wiki/William_Allen_Neilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30723#Fathers-and-Children
 gutenberg_issued: '2009-12-21'
 gutenberg_type: Text
 identifiers:
